@@ -5,3 +5,6 @@ JCBAインターネットサイマルラジオ再生用ソフトウェア（非�
 
 ## 対象OS
 Windows
+
+## ダウンロード
+https://github.com/takehara-photo/ComminityRadioPlayer/releases
