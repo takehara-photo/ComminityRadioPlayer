@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Authors>takehara-photo.com</Authors>
+    <PackageProjectUrl>https://takehara-photo.com</PackageProjectUrl>
+    <ApplicationIcon>4673d6752858b5678c0ef602677d3d80_xxo.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="VideoLAN.LibVLC.Windows" Version="3.0.11" />
+    <PackageReference Include="Vlc.DotNet.Core" Version="3.0.0" />
+    <PackageReference Include="Vlc.DotNet.Core.Interops" Version="3.0.0" />
+    <PackageReference Include="Vlc.DotNet.Wpf" Version="3.0.0" />
+  </ItemGroup>
+
+</Project>
