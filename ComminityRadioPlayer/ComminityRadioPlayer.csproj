@@ -17,4 +17,10 @@
     <PackageReference Include="Vlc.DotNet.Wpf" Version="3.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Copyright.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

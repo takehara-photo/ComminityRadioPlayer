@@ -1,0 +1,13 @@
+﻿Copyright: 
+
+James Newton-King https://www.newtonsoft.com/json
+Released under the MIT license
+http://opensource.org/licenses/mit-license.php
+
+VideoLAN.LibVLC
+https://code.videolan.org/videolan/libvlc-nuget
+LGPL-2.1-or-later
+https://licenses.nuget.org/LGPL-2.1-or-later
+
+Vlc.DotNet
+https://github.com/ZeBobo5/Vlc.DotNet
